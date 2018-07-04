@@ -82,3 +82,8 @@ skipLibCheck: true
 
 またTypeScript化するにあたって、index.jsはReactNative上プロジェクトルートになければいけないため、かつ、そんなに処理することがないためindex.jsはTypeScriptのコンパイル対象外にして、srcsディレクトリと対象とする。ts(tsx)のコンパイル後のファイルはbuildディレクトリに出力する。
 
+
+## 実行手順
+
+1. yarn start
+2. yarn ios(or android) in another terminal window
