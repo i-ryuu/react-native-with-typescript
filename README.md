@@ -8,6 +8,7 @@ ReactNativeをTypeScriptを使ってtscでコンパイルできるところま�
 - react-native-cli 2.0.1
 - TypeScript 2.9.1
 
+## エラーと解決策
 
 facebookの公式のブログでもやり方が説明されているが、それをそのまま用意しても以下のようなエラー(TypeScript2.8以降の表示されるエラーっぽい。)にあたる。
 
