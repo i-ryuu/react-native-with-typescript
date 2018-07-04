@@ -1,6 +1,6 @@
 # ReactNative with TypeScript project sample
 
-ReactNativeをTypeScriptを使ってtscでコンパイルできるところまでのメモ。
+ReactNativeをTypeScriptを使ってtscでコンパイル、ライブリロード、リモートデバッグできるところまでのメモ。
 
 ## 環境
 - node 10.4.1
