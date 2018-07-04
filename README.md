@@ -10,7 +10,7 @@ ReactNativeをTypeScriptを使ってtscでコンパイルできるところま�
 
 ## エラーと解決策
 
-facebookの公式のブログでもやり方が説明されているが、それをそのまま用意しても以下のようなエラー(TypeScript2.8以降の表示されるエラーっぽい。)にあたる。
+[Facebook公式のブログ](https://facebook.github.io/react-native/blog/2018/05/07/using-typescript-with-react-native.html)でもやり方が説明されているが、それをそのまま用意しても以下のようなエラー(TypeScript2.8以降の表示されるエラーっぽい。)にあたる。
 
 
 ```js
